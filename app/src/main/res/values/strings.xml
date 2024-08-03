@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PokerMan</string>
+    <string name="feeling_lucky">手气不错</string>
+    <string name="show_grid">网格</string>
 </resources>

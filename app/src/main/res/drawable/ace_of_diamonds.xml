@@ -5,17 +5,17 @@
     android:viewportWidth="72"
     android:viewportHeight="120">
 
-    <!-- 72*120 background rectangle -->
+<!--    &lt;!&ndash; 72*120 background rectangle &ndash;&gt;
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M6,0h60 q6,0 6,6 v108 q0,6 -6,6h-60 q-6,0 -6,-6 v-108 q0,-6 6,-6" />
 
-    <!--  6*6 grid lines  -->
+    &lt;!&ndash;  6*6 grid lines  &ndash;&gt;
     <path
         android:pathData="M0,6h72M0,12h72M0,18h72M0,24h72M0,30h72M0,36h72M0,42h72M0,48h72M0,54h72M0,60h72M0,66h72M0,72h72M0,78h72M0,84h72M0,90h72M0,96h72M0,102h72M0,108h72M0,114h72
                         M6,0v120M12,0v120M18,0v120M24,0v120M30,0v120M36,0v120M42,0v120M48,0v120M54,0v120M60,0v120M66,0v120"
         android:strokeWidth="0.2"
-        android:strokeColor="#40000000" />
+        android:strokeColor="#40000000" />-->
 
     <!--  中间的方块  -->
     <path
